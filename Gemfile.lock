@@ -2,8 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.3.3)
-    addressable (2.8.7)
-      public_suffix (>= 2.0.2, < 7.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     chunky_png (1.2.5)
     colorator (1.1.0)
     compass (0.12.2)
@@ -60,7 +60,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     posix-spawn (0.3.15)
-    public_suffix (6.0.1)
+    public_suffix (7.0.5)
     pygments.rb (0.3.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
