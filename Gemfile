@@ -3,7 +3,7 @@ source "https://rubygems.org"
 group :development do
   gem 'rake', '~> 12.3'
   gem 'jekyll', '~> 4.3'
-  gem 'rdiscount', '~> 2.0.7'
+  gem 'rdiscount', '~> 2.2.7'
   gem 'pygments.rb', '~> 0.3.4'
   gem 'RedCloth', '~> 4.3.3'
   gem 'haml', '~> 5.0.0'
@@ -17,4 +17,4 @@ group :development do
   gem 'directory_watcher', '1.4.1'
 end
 
-gem 'sinatra', '~> 2.2.4'
+gem 'sinatra', '~> 4.2.0'
